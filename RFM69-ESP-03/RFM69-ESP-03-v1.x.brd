@@ -157,6 +157,7 @@
 <text x="6.7" y="13.9" size="1.778" layer="22" rot="MR0">18</text>
 <text x="6.6" y="16.5" size="1.778" layer="22" rot="MR0">EN</text>
 <text x="8.2" y="19.1" size="1.778" layer="22" rot="MR0">ANT</text>
+<text x="32.9" y="0.2" size="1" layer="22" rot="MR0">RFM69-ESP-03 v1.x</text>
 </plain>
 <libraries>
 <library name="rcl">
