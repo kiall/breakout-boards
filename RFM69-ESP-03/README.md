@@ -5,6 +5,11 @@ Combination breakout for the RFM69 RF module, and the ESP-03 wifi module.
 
 ![Single Board](images/board.png)
 
+Status
+------
+
+Currently unproven, order has been sent to fab.
+
 Notes
 -----
 
