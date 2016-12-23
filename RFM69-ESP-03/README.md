@@ -10,6 +10,13 @@ Status
 
 Currently unproven, order has been sent to fab.
 
+Revision History
+----------------
+
+* v1.0 - Inital Board
+* v1.x (WIP)
+ * Add revision number to silkscreen
+
 Notes
 -----
 
